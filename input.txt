@@ -1,0 +1,4 @@
+a=b+c
+x=b+c
+y=a*d
+z=b+c
